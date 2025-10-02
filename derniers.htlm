@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Derniers ajouts - NeoStream</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: black;
+      color: white;
+      padding: 40px;
+    }
+    a {
+      color: #00f0ff;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎬 Derniers ajouts</h1>
+  <p>Voici la liste des derniers films ajoutés :</p>
+  <ul>
+    <li>Film 1</li>
+    <li>Film 2</li>
+    <li>Film 3</li>
+  </ul>
+  <p><a href="index.html">⬅ Retour à l'accueil</a></p>
+</body>
+</html>
